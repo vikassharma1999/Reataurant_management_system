@@ -1,3 +1,4 @@
+#The is billing system for a restaurant.
 from tkinter import *
 import random
 import time
